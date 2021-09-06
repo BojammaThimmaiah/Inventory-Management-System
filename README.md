@@ -13,5 +13,8 @@ In sales part created a dictonary called sales
 Transition id gets updated when you run bill,enter the requirements,execute the updated code then the sales gets updated according to the requirements of the customer.
 Then sales.json file is created
 Totally it contains 4 files-Adding values,Purchasing products,record.json,sales.json.
+
+
+
 About me:
 My name is Bojamma Thimmaiah M, I'm currently pursuing Bachelor of Enginerring in Computer Science and Engineering at Coorg Institute of Technology.I am an final year student and this is my first Python Project and iam doing online internship on Python for AI/ML in Elite Techno Groups.
