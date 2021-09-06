@@ -1,5 +1,6 @@
 # Inventory-Management-System
 This repository is having all the codes used in Python for AIML internship by Elite Techno Groups.
+
 In Adding values file - I have read the products which was present in original record.json file.
 Imported json and added 25 extra items with 5 attributes each making total of 31 items with 5 attributes each.
 To add more items to the dictonary i have used the while loop.
